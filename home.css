@@ -89,6 +89,10 @@
             font-size: 15px;
         }
 
+        section div {
+                font-size: 10px;
+        }
+
         #welcome , #contact, #course, #about{
             background-color: #720606;
             border: solid;
